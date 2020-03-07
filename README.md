@@ -1,5 +1,7 @@
 # faas-rust-template
 
+![Docker Image CI](https://github.com/0x0177b11f/faas-rust-template/workflows/Docker%20Image%20CI/badge.svg)
+
 An OpenFaaS of-watchdog template written in Rust.
 
 ## Features

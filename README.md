@@ -1,6 +1,6 @@
 # faas-rust-template
 
-![Docker](https://github.com/0x0177b11f/faas-rust-template/workflows/Docker/badge.svg)
+![Docker](https://github.com/0x0177b11f/faas-rust-template/workflows/Docker/badge.svg) [![Docker Repository on Quay](https://quay.io/repository/0x0177b11f/faas-rust-template/status "Docker Repository on Quay")](https://quay.io/repository/0x0177b11f/faas-rust-template)
 
 An OpenFaaS of-watchdog template written in Rust.
 
